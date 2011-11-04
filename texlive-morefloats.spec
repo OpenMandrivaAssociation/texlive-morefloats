@@ -1,3 +1,9 @@
+# revision 23341
+# category Package
+# catalog-ctan /macros/latex/contrib/morefloats
+# catalog-date 2011-07-10 20:11:03 +0200
+# catalog-license lppl1.3
+# catalog-version 1.0e
 Name:		texlive-morefloats
 Version:	1.0e
 Release:	1
@@ -51,6 +57,7 @@ message.
 %doc %{_texmfdistdir}/source/latex/morefloats/morefloats.drv
 %doc %{_texmfdistdir}/source/latex/morefloats/morefloats.dtx
 %doc %{_texmfdistdir}/source/latex/morefloats/morefloats.ins
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -61,3 +68,5 @@ message.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
