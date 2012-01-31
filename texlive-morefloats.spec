@@ -1,12 +1,12 @@
-# revision 23341
+# revision 25232
 # category Package
 # catalog-ctan /macros/latex/contrib/morefloats
-# catalog-date 2011-07-10 20:11:03 +0200
+# catalog-date 2012-01-29 16:01:54 +0100
 # catalog-license lppl1.3
-# catalog-version 1.0e
+# catalog-version 1.0f
 Name:		texlive-morefloats
-Version:	1.0e
-Release:	2
+Version:	1.0f
+Release:	1
 Summary:	Increase the number of simultaneous LaTeX floats
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/morefloats
