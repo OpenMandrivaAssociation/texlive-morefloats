@@ -57,3 +57,21 @@ message.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Jan 31 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0f-1
++ Revision: 770227
+- Update to latest upstream package
+
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0e-2
++ Revision: 754104
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.0e-1
++ Revision: 719060
+- texlive-morefloats
+- texlive-morefloats
+- texlive-morefloats
+- texlive-morefloats
+
