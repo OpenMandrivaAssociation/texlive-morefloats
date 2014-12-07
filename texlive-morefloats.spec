@@ -6,7 +6,7 @@
 # catalog-version 1.0f
 Name:		texlive-morefloats
 Version:	1.0f
-Release:	7
+Release:	8
 Summary:	Increase the number of simultaneous LaTeX floats
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/morefloats
