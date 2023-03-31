@@ -1,6 +1,6 @@
 Name:		texlive-morefloats
 Version:	37927
-Release:	1
+Release:	2
 Summary:	Increase the number of simultaneous LaTeX floats
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/morefloats
