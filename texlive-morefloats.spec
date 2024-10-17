@@ -3,7 +3,7 @@ Version:	37927
 Release:	2
 Summary:	Increase the number of simultaneous LaTeX floats
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/morefloats
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/morefloats
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/morefloats.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/morefloats.doc.r%{version}.tar.xz
